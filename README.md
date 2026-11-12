@@ -17,10 +17,12 @@
 
 ## 硅光工作流
 
-面向硅光器件的设计仿真、GDS 重建与结果审计。
+覆盖 SOI 与薄膜铌酸锂（TFLN）平台的 PDK、器件仿真、GDS 重建与结果审计。
 
 | 仓库 | 内容 |
 | --- | --- |
-| [FDTD-SiP-skill](https://github.com/Jerry-behappy/FDTD-SiP-skill) | 基于 Ansys Lumerical 的硅光器件仿真技能，涵盖 GDS 重建与结果审计。 |
+| [JNU-MWP-SOI-PDK](https://github.com/Jinan-Photonics-Integration-Center/JNU-MWP-SOI-PDK) | 用于 KLayout 的 SOI 硅光 PDK，包含 PCell、DRC、黑盒器件与版图工具。 |
+| [JNU_MWP_TFLN_PDK](https://github.com/Jinan-Photonics-Integration-Center/JNU_MWP_TFLN_PDK) | 用于 KLayout 的薄膜铌酸锂（TFLN）PDK，包含工艺库、固定黑盒器件、端口识别与版图工具。 |
+| [FDTD-SiP-skill](https://github.com/Jerry-behappy/FDTD-SiP-skill) | 硅光器件 FDTD 仿真技能，涵盖 GDS 重建与结果审计。 |
 
-[按 Topic 浏览：silicon-photonics-workflow](https://github.com/search?q=user%3AJerry-behappy+topic%3Asilicon-photonics-workflow&type=repositories)
+[按 Topic 浏览个人仓库：silicon-photonics-workflow](https://github.com/search?q=user%3AJerry-behappy+topic%3Asilicon-photonics-workflow&type=repositories)
